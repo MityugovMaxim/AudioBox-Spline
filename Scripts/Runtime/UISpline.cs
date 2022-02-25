@@ -1,9 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using AudioBox.UI;
 using UnityEngine;
 
-namespace AudioBox.UI
+namespace AudioBox.Spline
 {
 	[ExecuteInEditMode]
 	public class UISpline : UIEntity, IEnumerable<UISpline.Point>

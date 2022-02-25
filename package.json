@@ -1,7 +1,10 @@
 {
-	"name": "com.audiobox.spline",
-	"displayName": "AudioBox Spline",
-	"version": "1.0.0",
-	"description": "AudioBox splines.",
-	"unity": "2019.3"
+  "name": "com.audiobox.spline",
+  "displayName": "AudioBox Spline",
+  "version": "1.0.0",
+  "description": "AudioBox splines.",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.audiobox.ui": "https://github.com/MityugovMaxim/AudioBox-UI.git"
+  }
 }
